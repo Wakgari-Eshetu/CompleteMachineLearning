@@ -1,0 +1,10 @@
+1. Problem Defination 
+2. Data collection 
+3. Data cleaning and preprocessing 
+4. Explarotory Data Analysis 
+5. Fetuare Enginering and Selection 
+6. Model Selection
+7. Model Training 
+8. Model Evaluation and tuning
+9. Model Deployment 
+10. Model monitoring and maintenance 
